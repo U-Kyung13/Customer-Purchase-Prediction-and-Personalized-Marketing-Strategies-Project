@@ -1,2 +1,11 @@
 # 고객 구매 데이터 기반 예측 모델 개발 및 개인화 마케팅 전략 제안
-7th Lotte Members Bigdata Contest
+### 7th Lotte Members Bigdata Contest
+- 팀명 : Brother Shin
+- 팀원 : 김유경, 박주영, 조영상
+----
+#### 분석 주제
+- 고객 구매 데이터에 기반한 예측 모델 개발 및 개인화 마케팅 전략 제안
+
+#### 중간 과정 
+
+#### 결론
